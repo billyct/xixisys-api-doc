@@ -1,6 +1,5 @@
 * [XiXisys API 文档](/)
 * [关于认证](auth.md)
 * [如何获取 SDS 文档](sds.md)
-* [如何获取合规文档](compliance.md)
 * [其他问题](others.md)
 * [curl 例子](curl_examples.md)
