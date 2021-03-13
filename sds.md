@@ -1,7 +1,7 @@
 # 如何获取 SDS 文档 How to get a SDS
 
 ### HTTP 请求 HTTP Request
-`GET https://dlfrsthy47.execute-api.cn-north-1.amazonaws.com.cn/production/v1/sds/html`
+`GET https://sds-api.xixisys.com/v1/sds/html`
 
 ### 请求参数 Query parameters
 
